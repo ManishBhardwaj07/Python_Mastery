@@ -1,5 +1,3 @@
-# Python_Mastery
-
 # 🐍 Python Mastery
 
 My structured Python learning journey for AI, Machine Learning, and Data Science.
