@@ -88,7 +88,7 @@ else:
     print("You have scored F grade")
 
 
-Traffic light condition
+## Traffic light condition
 
 light = (input("Enter the Light's Color:"))
 if light == "Red":
@@ -161,7 +161,7 @@ if age >= 18 and citizenship == citizenship:
 # Nested if-else conditions
 
 
-Job Criteria
+## Job Criteria
 
 age = int(input("Enter your age:"))
 degree = input("Do you have a degree? (yes/no):")
