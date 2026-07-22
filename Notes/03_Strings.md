@@ -75,7 +75,7 @@ Returns True if the string ends with the given text.
 
 
 
-<!-- 
+
 
 | Method         | Purpose                              | Returns |
 | -------------- | ------------------------------------ | ------- |
@@ -91,4 +91,4 @@ Returns True if the string ends with the given text.
 | `split()`      | String → List                        | List    |
 | `join()`       | List → String                        | String  |
 | `startswith()` | Starts with?                         | Boolean |
-| `endswith()`   | Ends with?                           | Boolean | -->
+| `endswith()`   | Ends with?                           | Boolean | 
